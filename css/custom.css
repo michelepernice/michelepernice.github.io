@@ -2,8 +2,8 @@
  * This css file is for your own style.
  *************************************************************************/
 
-#me {
-  width: 720px;
+#flex {
+  max-width: 100%;
 }
 
 .flex-item-stretch-6 {
